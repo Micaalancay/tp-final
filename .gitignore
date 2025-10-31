@@ -1,0 +1,29 @@
+# Archivos y carpetas de Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos de compilación
+bin/
+obj/
+Debug/
+Release/
+[Tt]emp/
+
+# Archivos de dependencias de .NET
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+# Archivos de configuración local
+*.dbmdl
+*.bak
+*.ldb
+
+# Archivos del sistema
+Thumbs.db
+Desktop.ini
